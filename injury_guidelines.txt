@@ -1,0 +1,26 @@
+Guideline ID: G001
+Injury: Ankle Sprain
+Treatment:
+- RICE (Rest, Ice, Compression, Elevation) protocol for the first 48-72 hours.
+- Pain relief using non-steroidal anti-inflammatory drugs (NSAIDs).
+- Physical therapy to restore range of motion, strength, and stability.
+- In severe cases (Grade III sprain), a short-leg cast or walking boot for 2-3 weeks may be necessary.
+- Follow-up with an orthopedic specialist for persistent symptoms.
+
+Guideline ID: G002
+Injury: Forearm Fracture
+Treatment:
+- Immediate immobilization of the arm to prevent further injury.
+- X-ray to determine the location and severity of the fracture.
+- For non-displaced fractures, a cast is typically applied for 6-8 weeks.
+- For displaced fractures, surgical intervention involving plates, screws, or rods may be required to align and stabilize the bone.
+- Post-cast removal, physical therapy is essential to regain strength and mobility.
+
+Guideline ID: G003
+Injury: Concussion
+Treatment:
+- Cognitive and physical rest is the cornerstone of treatment.
+- Avoid activities that are physically demanding or require intense concentration.
+- Gradually return to daily activities, including work and school.
+- Monitor for worsening symptoms such as severe headache, repeated vomiting, or seizures, which require immediate medical attention.
+- A follow-up with a neurologist may be recommended for complex cases.
