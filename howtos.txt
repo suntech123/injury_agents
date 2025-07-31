@@ -1,0 +1,7 @@
+How It Works
+Initialization: The workflow starts with an injury_description.
+Guideline Retrieval: The guideline_retriever_tool is called first. It takes the injury_description, performs a similarity search in the ChromaDB vector store, and retrieves the most relevant treatment guidelines.
+Guideline Analysis: The guideline_analysis_agent receives the retrieved guidelines. It uses an LLM to analyze this information and create a structured summary of the treatment plan.
+ICD-10 Code Selection: The icd_code_selection_agent takes the analyzed treatment summary and, using the provided ICD10_CODES dictionary, selects the top 3 most fitting codes.
+Final Output: The graph execution ends, and the final state contains the suggested ICD-10 codes.
+This agentic workflow effectively separates concerns, allowing each agent to specialize in its task, leading to a more robust and maintainable solution. The use of ChromaDB for RAG ensures that the agents are working with the most relevant and up-to-date information from the provided guidelines.
